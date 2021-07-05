@@ -1,3 +1,3 @@
 # curso-js
-Curso de JavaScript e TypeScript
+Curso de JavaScript
 Ministrado pelo Professor Luiz Otávio Miranda
